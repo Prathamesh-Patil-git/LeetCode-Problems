@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0155-min-stack) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
