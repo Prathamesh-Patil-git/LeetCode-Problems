@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0896-monotonic-array](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0896-monotonic-array) |
 ## Linked List
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
