@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0896-monotonic-array) |
 ## Linked List
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
