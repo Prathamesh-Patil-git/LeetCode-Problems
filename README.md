@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
