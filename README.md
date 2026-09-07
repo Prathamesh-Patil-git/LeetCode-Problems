@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0896-monotonic-array) |
 ## Linked List
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
