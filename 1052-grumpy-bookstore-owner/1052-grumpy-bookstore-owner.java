@@ -22,12 +22,12 @@ class Solution {
                 alreadySatisfied+=customers[right];
             }
 
-            if(grumpy[left] == 1 && grumpy[right] == 1){
-                currentUnsatisfied = currentUnsatisfied - customers[left] + customers[right];
-            } else if ( grumpy[left] == 1 && grumpy[right] == 0 ){
-                currentUnsatisfied = currentUnsatisfied - customers[left] + 0;
-            }else if ( grumpy[left] == 0 && grumpy[right] == 1 ){
-                currentUnsatisfied = currentUnsatisfied - 0 + customers[right];
+            if(grumpy[left] == 1){
+                currentUnsatisfied -= customers[left];
+            }
+
+            if(grumpy[right] == 1){
+                currentUnsatisfied += customers[right];
             }
             
             maxUnsatisfied = Math.max(maxUnsatisfied,currentUnsatisfied);
