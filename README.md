@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -97,5 +99,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
