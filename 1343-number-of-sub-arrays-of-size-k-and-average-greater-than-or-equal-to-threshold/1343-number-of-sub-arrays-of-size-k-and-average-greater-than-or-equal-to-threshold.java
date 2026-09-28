@@ -1,23 +1,30 @@
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
-        int subArrays=0;
-        int sum = 0;
-        for(int i = 0; i <k;i++){
-            sum+=arr[i];
+        int currentAvg = 0;
+        int currentSum = 0;
+        int subArrays = 0;
+
+        for(int i = 0;i<k; i++){
+            currentSum+=arr[i];
         }
-        if(sum >= k * threshold){
+
+        currentAvg = currentSum/k;
+        if(currentAvg >= threshold){
             subArrays++;
         }
 
-        int left = 1;
-        int right = left+k-1;
+        int left = 0;
+        int right = k;
 
-        while(right<arr.length){
+        while(right < arr.length){
 
-            sum = sum - arr[left-1] + arr[right];
-            if(sum >= k * threshold){
+            currentSum = currentSum - arr[left] + arr[right];
+            currentAvg = currentSum/k;
+
+            if(currentAvg >= threshold){
                 subArrays++;
             }
+
             left++;
             right++;
         }
