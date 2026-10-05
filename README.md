@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Prathamesh-Patil-git/LeetCode-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
